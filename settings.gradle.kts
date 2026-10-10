@@ -16,4 +16,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "CoffeeSenjaRasa"
-include(":android")
+include(":app")
+project(":app").projectDir = file("android/app")
