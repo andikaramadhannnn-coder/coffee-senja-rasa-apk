@@ -1,0 +1,7 @@
+{
+  "name": "Coffee Senja Rasa - Kasir & Stok Coffee Shop",
+  "description": "Aplikasi kasir dan manajemen stok offline untuk Coffee Senja Rasa dengan tema kopi senja yang nyaman di HP dan tablet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
